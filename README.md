@@ -16,6 +16,21 @@ Feel free to contribute, you can:
 
 ### File Structure
 
+Something looks like:
+
+```
+.
+├ book.json
+├ README.md
+├ SUMMARY.md
+├ year1/
+|   ├ README.md
+|   └ courseID+author.md
+└ year2/
+    ├ README.md
+    └ courseID+author.md
+```
+
 `courseID + authorName` + suffix, default prefix for `courseID` is `CSE`
 
 eg. `207-dexhunter.md` is a review material for CSE207 written by DexHunter
