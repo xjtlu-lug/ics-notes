@@ -2,8 +2,10 @@
 
 This document covers the summary of some courses and materials that is not covered at lecturers' PPT or other review materials.
 
+* [official pages](https://notes.xjtlu.moe/)
 * View at [Gitbook](https://www.gitbook.com/book/xjtlu-lug/ics-notes/details)
 * view at [Github](https://github.com/xjtlu-lug/ics-notes)
+
 
 ### Call for Contribution
 
@@ -16,7 +18,7 @@ Feel free to contribute, you can:
 
 `courseID + authorName` + suffix, default prefix for `courseID` is `CSE`
 
-eg. `207-dexhunter.md` is CSE207 written by DexHunter
+eg. `207-dexhunter.md` is a review material for CSE207 written by DexHunter
 
 ### The reason for this repo
 * Multi-choice questions of exam are not listed at the past year paper database
