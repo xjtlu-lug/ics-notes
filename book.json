@@ -1,0 +1,11 @@
+{
+    "plugins": ["ga", "mathjax"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-96340754-3"
+        }
+    },
+    "variables": {
+        "org": "xjtlu-lug"
+    }
+}
