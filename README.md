@@ -1,6 +1,6 @@
 ## Review Guide for XJTLU ICS major 
 
-This document covers the summary of some courses and materials that is not covered at lecturers' PPT or other review materials.
+This document covers the summary of some courses and materials that are not covered at lecturers' PPT or other review materials.
 
 * [official pages](https://notes.xjtlu.moe/)
 * View at [Gitbook](https://www.gitbook.com/book/xjtlu-lug/ics-notes/details)
@@ -36,6 +36,7 @@ Something looks like:
 eg. `207-dexhunter.md` is a review material for CSE207 written by DexHunter
 
 ### The reason for this repo
+
 * Multi-choice questions of exam are not listed at the past year paper database
 * Reduce the cost of finding answers from books
 * save students' time (so we can do something more meaningful)
@@ -45,6 +46,6 @@ eg. `207-dexhunter.md` is a review material for CSE207 written by DexHunter
 
 The materials are based on persoanl experience/opinion. Use at your own risk.
 
-Current maintainer:
-@DexHunter (Y3)
+### Else
 
+Checkout our [telegram-channel](https://t.me/xjtlu_lug)
