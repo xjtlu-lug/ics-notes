@@ -46,6 +46,6 @@ eg. `207-dexhunter.md` is a review material for CSE207 written by DexHunter
 
 The materials are based on persoanl experience/opinion. Use at your own risk.
 
-### Else
+### Community Support
 
 Checkout our [telegram-channel](https://t.me/xjtlu_lug)
