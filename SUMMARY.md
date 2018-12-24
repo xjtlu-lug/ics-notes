@@ -1,12 +1,16 @@
 # Summary
 
-* [Year I](year1/README.md)
+- [Year I](year1/README.md)
 
+- [Year II](year2/README.md)
 
-* [Year II](year2/README.md)
-    * [CSE103 exam](year2/103-dexhunter.md)
+  - [CSE103 exam](year2/cse103-database.md)
 
-* [Year III](year3/README.md)
-    * [CSE207 review](year3/207-dexhunter.md)
+- [Year III](year3/README.md)
 
-* [Year IV](year4/README.md)
+  - [CSE207 review](year3/cse207-sofware-engineering.md)
+  - [CSE210 review](year3/cse210-advanced-oo-programming.md)
+
+- [Year IV](year4/README.md)
+  - [CSE301 review](year4/cse301-biocomputing.md)
+  - [CSE311 review](year4/cse311-mobilecomputing.md)
