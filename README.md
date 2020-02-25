@@ -46,4 +46,4 @@ The materials are based on persoanl experience/opinion. Use at your own risk.
 
 ### Community Support
 
-Checkout our [telegram-channel](https://t.me/xjtlu_lug)
+Checkout our [telegram-channel](https://t.me/xjtlu_lug) and join our chat with [this link](https://t.me/joinchat/G5DgZEdMURjTiSqer8PczQ)
