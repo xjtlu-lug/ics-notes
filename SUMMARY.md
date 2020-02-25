@@ -14,3 +14,8 @@
 - [Year IV](year4/README.md)
   - [CSE301 review](year4/cse301-biocomputing.md)
   - [CSE311 review](year4/cse311-mobilecomputing.md)
+  - [CSE304 review](year4/cse304-multiagent.md)
+  - [CSE306 review](year4/cse306-se2.md)
+  - [CSE316 review](year4/cse316-security.md)
+
+- [past papers](past-papers/README.md)
