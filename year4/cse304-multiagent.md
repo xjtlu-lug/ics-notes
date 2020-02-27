@@ -55,3 +55,76 @@ TBA
 
 ## Lecture 3
 
+### Agent Architectures
+
+* An agent architecture defines:
+    * key data structures
+    * operations on data structures
+    * control flow beteween operations
+* hybrid agent combines best from *symbolic reasoning* agents and *reactive* agents 
+    * symbolic reasoning: use explicit logical reasoning in order to decide what to do
+    * reactive: ?
+
+### Deductive Reasoning Agents
+
+* Traditional approach to build AI systems (symbolic AI)
+    * symbolic representation of environment and behavior
+    * syntactic manipulation of symbolic representation
+* symbolic representation -> logical formulae
+* syntactic manipulation -> logical deduction (theorem proving)
+
+Transduction Problem: the problem of translating the real world into an accurate, adequate symbolic description, in time for that description to be useful
+Representation/Reasoning Problem: the problem of how to symbolically represent information about complex real-world entities and processes, and how to get agents to reason with this information in time for the results to be useful
+
+...
+
+## Lecture 4
+
+### Practical Reasoning
+
+* Practical reasoning is reasoning directed towards actions - the process of figuring out what to do
+* Practical reasoning a matter of weighing conflicting considerations for and against competing options, where the relevant considerations are provided by what the agent desires/values/cares about and what the agent believes.
+* Practical reasoning is different than *theoretical reasoning* (directed towards beliefs)
+* Practical Reasoning = Deliberation + Means-Ends Reasoning
+    * deliberation: deciding **what** state of affairs we want to achieve - the outputs of deliberation are **intentions**
+    * means-ends reasoning: deciding **how** to achieve these states of affairs - the outputs of means-ends reasoning are **plans**
+* Intentions & Desires:
+    * Intentions are stronger in influencing actions, than desires
+    * Intentions drive means-end reasoning
+    * Intentions persist
+    * Intentions constraint further deliberation
+    * Intentions influence beliefs upon which practical reasoning is based
+
+
+### Symbolic Representation of Beliefs, Desires and Intentions
+
+* *B* a variable for current beliefs
+* *Bel* set of all such beliefs
+* *D* a variable for current desires
+* *Des* set of all desires
+* *I* a variable for current intentions
+* *Int* set of all intentions
+
+### Means-Ends Reasoning
+
+* Means-ends reasoning is the process of deciding how to achieve an **end** (an intention an agent has) using the available **means** (i.e., the actinos an agent can perform)
+* Means-end reasoning is better known as planning
+* Planning is essentially an automatic programming
+
+### Planner
+
+* a *goal*, *intention* or *task*
+* the current state of environment - the agent's *beliefs*
+* the *actions* available to the agent
+* As output a planner generates a *plan*
+
+### Basic Control Structure for a Practical Reasoning Agent
+
+A loop:
+
+1. observes the world, and updates beliefs
+2. deliberates to decide what intention to achieve
+3. uses means-ends reasoning to find a plan to achieve these intentions
+4. executes the plan
+
+* Note: Doesn't it basically reinforcement learning?
